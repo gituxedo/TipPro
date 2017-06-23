@@ -12,6 +12,7 @@
 		182D7ED41EF9B859003233DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 182D7ED21EF9B859003233DD /* Main.storyboard */; };
 		182D7ED61EF9B859003233DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 182D7ED51EF9B859003233DD /* Assets.xcassets */; };
 		182D7ED91EF9B859003233DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 182D7ED71EF9B859003233DD /* LaunchScreen.storyboard */; };
+		18ACF2991EFDCE030018C19B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18ACF2981EFDCE030018C19B /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		182D7ED51EF9B859003233DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		182D7ED81EF9B859003233DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		182D7EDA1EF9B859003233DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18ACF2981EFDCE030018C19B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		182D7EC21EF9B859003233DD = {
 			isa = PBXGroup;
 			children = (
+				18ACF2981EFDCE030018C19B /* Default-568h@2x.png */,
 				182D7ECD1EF9B859003233DD /* TipPro */,
 				182D7ECC1EF9B859003233DD /* Products */,
 			);
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				182D7ED91EF9B859003233DD /* LaunchScreen.storyboard in Resources */,
+				18ACF2991EFDCE030018C19B /* Default-568h@2x.png in Resources */,
 				182D7ED61EF9B859003233DD /* Assets.xcassets in Resources */,
 				182D7ED41EF9B859003233DD /* Main.storyboard in Resources */,
 			);
@@ -299,6 +303,7 @@
 				182D7EDF1EF9B859003233DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
